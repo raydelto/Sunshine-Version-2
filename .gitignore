@@ -1,3 +1,6 @@
+#ignore swap files
+**~
+
 .gradle
 .DS_Store
 
